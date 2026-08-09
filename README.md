@@ -5,53 +5,42 @@
 **Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **sanskarprasad3108**. This README is tuned for **get hired** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 hero section" />
-  </picture>
-</p>
-## About Me
-> Editing this section in the inspector.
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 stack section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 stats section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 projects section" />
-  </picture>
-</p>
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sanskarprasad3108&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 social section" />
-  </picture>
-</p>
 
-<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
+Hi, I'm **Sanskar Prasad**, a CSE student at **BIT Mesra** building full-stack, backend, and ML systems.
+
+**Stack:** Java · Spring Boot · React · Next.js · Python · TensorFlow · MySQL · MongoDB · Kafka · Redis
+
+## Featured
+
+**🚀 Real-Time Fraud Detection**
+Spring Boot · Kafka · Redis · React
+<200ms latency · ML + rule-based detection · auto-blocking
+
+**🛒 Giftkart**
+Spring Boot · React · MySQL
+Full-stack e-commerce · REST APIs · JPA · Hibernate
+
+**🤖 Anomaly Detection**
+Python · TensorFlow · Scikit-learn · Flask
+Real-time monitoring · Autoencoders · Explainable AI
+
+## Experience
+
+**IIT (ISM) Dhanbad — Research Intern**
+Real-time anomaly detection · Predictive maintenance · Explainable AI
+
+**Tata Steel — Software Intern**
+50,000+ records · Analytics · Predictive modeling · Dashboards
+
+## Proof
+
+🏆 **Smart India Hackathon 2024 — 1st Place**
+👨‍💻 **700+ LeetCode problems · 1757 max rating**
+🤖 **Amazon ML Summer School 2025 — Top 3000**
+🏅 **Adobe India Hackathon — Coding Round 1**
+
+## Contact
+
+📧 [btech60126.23@bitmesra.ac.in](mailto:btech60126.23@bitmesra.ac.in)
+🔗 linkedin.com/in/SanskarPrasad
+💻 github.com/sanskarprasad3108

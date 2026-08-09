@@ -5,7 +5,7 @@
 **Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 
 ## Header
-> Editing this section in the inspector.
+> 
 Hi, I'm **sanskarprasad3108**. This README is tuned for **get hired** with a GitHub visual system.
 <p align="center">
   <picture>

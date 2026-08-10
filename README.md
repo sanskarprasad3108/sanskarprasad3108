@@ -2,13 +2,57 @@
 
 
 
- **Agent:** Full-Stack Engineer 
+  **Full-Stack Engineer** 
 
 ## Header
 > 
-Hi, I'm **sanskarprasad3108**. ### Professional Summary
+Hi, I'm **sanskarprasad3108**. 
 
-Computer Science undergraduate specializing in **Machine Learning, Generative AI, and backend systems**, with experience at **IIT (ISM) Dhanbad and Tata Steel**. Skilled in **ML, RAG, multi-agent AI, and scalable systems**, with **700+ LeetCode problems** and selection among the **top 3,000 in Amazon ML Summer School 2025**.
+<div align="center">
+
+<table>
+<tr>
+<td width="850" style="
+  border: 1px solid #7c3aed;
+  border-radius: 18px;
+  padding: 28px;
+  background: linear-gradient(135deg, #0f172a, #1e1b4b, #172554);
+">
+
+<h2>✨ About Me</h2>
+
+<p>
+  <b>Computer Science undergraduate</b> specializing in
+  <b>Machine Learning, Generative AI & Backend Systems</b>
+</p>
+
+<p>
+  🔬 <b>IIT (ISM) Dhanbad</b>
+  &nbsp; • &nbsp;
+  🏭 <b>Tata Steel</b>
+</p>
+
+<p>
+  🤖 <b>ML</b>
+  &nbsp; • &nbsp;
+  🧠 <b>RAG</b>
+  &nbsp; • &nbsp;
+  🔗 <b>Multi-Agent AI</b>
+  &nbsp; • &nbsp;
+  ⚡ <b>Scalable Systems</b>
+</p>
+
+<p>
+  🏆 <b>Top 3,000</b> — Amazon ML Summer School 2025
+  &nbsp; • &nbsp;
+  💻 <b>700+ LeetCode Problems</b>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <p align="center">
   <picture>

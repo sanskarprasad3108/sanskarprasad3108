@@ -1,6 +1,6 @@
 # sanskarprasad3108
 
-> Recruiter-friendly proof and contact path.
+
 
 **Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
 

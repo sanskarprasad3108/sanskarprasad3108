@@ -2,11 +2,14 @@
 
 
 
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
+ **Agent:** Full-Stack Engineer 
 
 ## Header
 > 
-Hi, I'm **sanskarprasad3108**. This README is tuned for **get hired** with a GitHub visual system.
+Hi, I'm **sanskarprasad3108**. ### Professional Summary
+
+Computer Science undergraduate specializing in **Machine Learning, Generative AI, and backend systems**, with experience at **IIT (ISM) Dhanbad and Tata Steel**. Skilled in **ML, RAG, multi-agent AI, and scalable systems**, with **700+ LeetCode problems** and selection among the **top 3,000 in Amazon ML Summer School 2025**.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=sanskarprasad3108&theme=github-dark&mode=light" />

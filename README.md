@@ -1,12 +1,16 @@
-# sanskarprasad3108
+<p align="center">
+  <img
+    src="./sanskarprasad3108_rose_gold_glass.svg"
+    alt="sanskarprasad3108"
+    width="100%"
+  />
+</p>
 
 
 
-  **Full-Stack Engineer** 
-
-## Header
+  
 > 
-Hi, I'm **sanskarprasad3108**. 
+Hi, I'm **sanskarprasad**. 
 
 <p align="center">
   <img 

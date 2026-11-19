@@ -25,16 +25,15 @@ Hi, I'm **sanskarprasad**.
 
 
 
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sanskarprasad3108&theme=github-dark&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 stack section" />
   </picture>
 </p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sanskarprasad3108&theme=github-dark&mode=light" />
@@ -49,8 +48,7 @@ Highlights repositories as proof of work.
     <img src="https://www.gitskins.com/api/section/projects?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 projects section" />
   </picture>
 </p>
-## Connect
-Contact and social links will appear here.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sanskarprasad3108&theme=github-dark&mode=light" />

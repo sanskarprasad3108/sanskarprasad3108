@@ -40,8 +40,7 @@ Hi, I'm **sanskarprasad**.
     <img src="https://www.gitskins.com/api/section/stats?username=sanskarprasad3108&theme=github-dark" alt="sanskarprasad3108 stats section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sanskarprasad3108&theme=github-dark&mode=light" />
